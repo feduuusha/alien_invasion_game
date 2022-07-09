@@ -17,3 +17,4 @@ class Settings:
         self.fleet_drop_speed = 10
         # Означает направление флота, 1 - вправо, -1 - влево.
         self.fleet_direction = 1
+        self.ship_limit = 3
